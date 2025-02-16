@@ -1,0 +1,17 @@
+<logic_cell>
+  <name>PropertyManager</name>
+  <synapses>
+    <synapse>Network#Unicast#Listener#@#30002</synapse>
+  </synapses>
+  <activators>
+    <activator>
+      <class>PropertyRequestActivator</class>
+      <properties>
+        <property>
+          <name>ExampleName</name>
+          <value>ExampleValue</value>
+        </property>
+      </properties>
+    </activator>
+  </activators>
+</logic_cell>
