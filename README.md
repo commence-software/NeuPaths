@@ -1,4 +1,4 @@
-# Version 1.5.0
+# Version 1.5.1
 ![NeuPaths_Logo_GitHub](https://github.com/user-attachments/assets/1b151bab-5797-4fb2-a23f-fc9a85545498)
 
 Imagine a computer program that operates like the human mind, where hundreds,
